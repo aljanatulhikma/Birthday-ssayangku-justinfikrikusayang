@@ -1,0 +1,117 @@
+666# CARA PAKAI (baca dulu sebelum isi):
+#
+# 1. Upload foto-foto kamu ke folder images/ ini APA ADANYA.
+#    Nama filenya boleh apa saja, contoh: IMG_2024.jpg, WA0001.jpg, foto_pacar.png, dst.
+#    TIDAK PERLU DI-RENAME.
+#
+# 2. Di bawah ini, tulis nama file itu PERSIS SAMA seperti nama aslinya,
+#    satu nama file per baris, urut sesuai urutan cerita yang kamu mau.
+#
+# 3. Baris yang diawali tanda # (seperti baris-baris ini) akan diabaikan.
+#
+# 4. Urutan baris akan otomatis dipasang begini:
+#    baris 1     -> foto POLAROID (foto dia sendirian, muncul di bawah kalender)
+#    baris 2-9   -> 8 foto cerita selang-seling (foto kalian berdua)
+#    baris 10 dst -> otomatis masuk ke halaman Galeri Kenangan (BEBAS berapa aja,
+#                    boleh 20, 30, 50 foto atau lebih, tidak ada batas)
+#
+# 5. Kalau kamu belum punya foto untuk salah satu slot, boleh dikosongkan
+#    (baris itu dihapus saja / dilewati), website tetap jalan normal.
+#
+# Saran urutan baris 2-9 sesuai cerita di website (boleh diubah sesuka kamu):
+# baris 2 -> foto pertama kali kenal jadi maba
+# baris 3 -> foto masa jarang chat / pas Diksar
+# baris 4 -> foto bareng abis Diksar
+# baris 5 -> foto masa mulai deket, telponan
+# baris 6 -> foto sekitar momen jadian (17 Agustus / PTC)
+# baris 7 -> foto masa naik-turun hubungan
+# baris 8 -> foto abis baikan
+# baris 9 -> foto yang lebih baru/recent
+foto A.jpg
+foto B.jpg
+foto C (1).jpg
+foto D (1).JPG
+foto E (1).jpg
+foto F.jpg
+foto G.jpg
+foto H.png
+foto I.jpg
+Screenshot_2026_0718_204412.jpg
+Screenshot_2026_0718_204446.jpg
+Screenshot_2026_0718_204514.jpg
+Screenshot_2026_0718_204535.jpg
+Screenshot_2026_0718_204901.jpg
+Screenshot_2026_0718_204738.jpg
+Screenshot_2026_0718_204644.jpg
+Screenshot_2026_0718_204629.jpg
+Screenshot_2026_0718_204351.jpg
+Screenshot_2026_0718_204312.jpg
+Screenshot_2026_0718_204127.jpg
+Screenshot_2026_0718_204011.jpg
+Screenshot_2026_0718_203935.jpg
+Screenshot_2026_0718_203932.jpg
+Screenshot_2026_0718_203587.jpg
+Screenshot_2026_0718_203823.jpg
+Screenshot_2026_0718_203701.jpg
+Screenshot_2026_0718_203724.jpg
+Screenshot_2026_0718_203637.jpg
+Screenshot_2026_0718_203527.jpg
+Screenshot_2026_0718_203501.jpg
+Screenshot_2026_0718_203316.jpg
+Screenshot_2026_0718_203306.jpg
+Screenshot_2026_0718_203212.jpg
+Screenshot_2026_0718_203157.jpg
+Screenshot_2026_0718_190133.jpg
+Screenshot_2026_0718_185514.jpg
+Screenshot_2026_0718_185459.jpg
+Screenshot_2026_0718_185412.jpg
+Screenshot_2026_0718_185256.jpg
+Screenshot_2026_0718_185221.jpg
+Screenshot_2026_0721_145545.jpg
+Screenshot_2026_0721_145511.jpg
+Screenshot_2026_0721_145459.jpg
+Screenshot_2026_0721_145448.jpg
+IMG_4309.JPG
+IMG_4297.JPG
+IMG_4283.JPG
+IMG_4293.JPG
+IMG_4277.JPG
+IMG_4274.JPG
+IMG_4281.JPG
+IMG_4289.JPG
+IMG_4304.JPG
+IMG_4271.JPG
+IMG_4315.JPG
+IMG_4269.JPG
+IMG_4264.JPG
+IMG_4285.JPG
+IMG_4300.JPG
+IMG_4286.JPG
+IMG_4284.JPG
+Screenshot_2026_0721_145347.jpg
+IMG_4272.JPG
+Screenshot_2026_0721_145334.jpg
+Screenshot_2026_0721_145253.jpg
+Screenshot_2026_0721_145227.jpg
+Screenshot_2026_0721_145208.jpg
+Screenshot_2026_0721_145134.jpg
+Screenshot_2026_0721_145124.jpg
+Screenshot_2026_0721_145153.jpg
+Screenshot_2026_0721_144849.jpg
+Screenshot_2026_0721_144819.jpg
+Screenshot_2026_0721_144801.jpg
+IMG_3594.PNG
+Screenshot_2026_0721_144737.jpg
+IMG_3470.PNG
+Screenshot_2026_0721_144632.jpg
+Screenshot_2026_0721_144619.jpg
+Screenshot_2026_0721_144603.jpg
+Screenshot_2026_0721_144554.jpg
+Screenshot_2026_0721_144528.jpg
+Screenshot_2026_0721_144506.jpg
+Screenshot_2026_0721_144422.jpg
+IMG_3082.JPG
+Screenshot_2026_0721_144306.jpg
+Screenshot_2026_0721_144259.jpg
+Screenshot_2026_0721_144204.jpg
+Screenshot_2026_0721_140826.jpg
