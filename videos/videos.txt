@@ -1,0 +1,27 @@
+# CARA PAKAI (baca dulu sebelum isi):
+#
+# 1. Upload video-video kamu ke folder videos/ ini APA ADANYA.
+#    Nama filenya boleh apa saja, contoh: VID_2024.mp4, video_liburan.mp4, dst.
+#    TIDAK PERLU DI-RENAME.
+#
+# 2. Di bawah ini, tulis nama file itu PERSIS SAMA seperti nama aslinya,
+#    satu nama file per baris, urut sesuai urutan yang kamu mau.
+#
+# 3. Baris yang diawali tanda # (seperti baris-baris ini) akan diabaikan.
+#
+# 4. Semua video yang kamu tulis di sini akan otomatis muncul berurutan
+#    di halaman "Video Kenangan", tinggal discroll ke bawah satu-satu.
+#
+# 5. Format sebaiknya .mp4 (paling didukung semua browser & HP).
+#    Kalau video kamu formatnya lain (.mov dari iPhone, dst), sebaiknya
+#    convert dulu ke .mp4 supaya pasti bisa diputar di semua HP.
+#
+# 6. Video yang ukurannya besar mungkin butuh waktu agak lama untuk
+#    loading tergantung koneksi internet yang buka website, itu normal.
+#
+# 7. Kalau file videos.txt ini dibiarkan kosong / tidak diisi, website
+#    otomatis mencoba mencari video1.mp4 sampai video5.mp4 sebagai gantinya.
+VID-20260720-WA0041.mp4
+AVid.mp4
+Avid3.mp4
+vid4.mp4
